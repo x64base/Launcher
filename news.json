@@ -1,0 +1,12 @@
+{
+    "news": [
+        {
+            "title": "Hi 1",
+            "description": "Howdy 1"
+        },
+        {
+            "title": "Hi 2",
+            "description": "Howdy 2"
+        }
+    ]
+}
